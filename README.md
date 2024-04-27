@@ -1,7 +1,7 @@
 
 # EX. NO.5
 
-### Implementation of XOR  using RBF</H1>
+## Implementation of XOR  using RBF</H1>
 <H3>Aim:</H3>
 To implement a XOR gate classification using Radial Basis Function  Neural Network.
 
